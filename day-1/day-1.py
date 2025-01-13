@@ -1,4 +1,4 @@
-"""Solution to Day of Advent of Code 2024"""
+"""Solution to Day 1 of Advent of Code 2024"""
 
 FILENAME = 'input.txt'
 
