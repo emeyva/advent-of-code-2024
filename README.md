@@ -8,3 +8,4 @@ Advent of code 2024
 - [Day 1](https://adventofcode.com/2024/day/1) - [done](day-1/)
 - [Day 2](https://adventofcode.com/2024/day/2) - [done](day-2/)
 - [Day 3](https://adventofcode.com/2024/day/3) - [done](day-3/)
+- [Day 4](https://adventofcode.com/2024/day/4) - [done](day-4/)
